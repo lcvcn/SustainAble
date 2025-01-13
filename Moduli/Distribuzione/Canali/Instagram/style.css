@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Open Sans';
+    src:    url('Montserrat/Montserrat-Italic-VariableFont_wght.ttf'),
+            url('Montserrat/Montserrat-VariableFont_wght.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    width: 1080px;
+    height: 1080px;
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden; 
+    background-color: #000000; 
+}
+
+body {
+    font-family: 'Montserrat', 'Arial', sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fdfdfd;
+    color: #333;
+    line-height: 1.6;
+    padding-top: 20px;
+}
+
+.logo {
+    font-size: 1.2em;
+    text-align: right;
+    font-weight: 600;
+}
+
+.title {
+    font-size: 1.6em;
+    color: #000;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 1.2em;
+    color: #2cbf31;
+    text-align: center;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.chart-space {
+    position: relative;
+    width: 100%; 
+    margin: 20px auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f9f9f9;
+    border-radius: 10px; 
+    padding: 10px; 
+}
+
+.chart-space img {
+    width: 80%; 
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}

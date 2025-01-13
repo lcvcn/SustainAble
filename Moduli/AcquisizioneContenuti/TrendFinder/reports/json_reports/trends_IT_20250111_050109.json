@@ -1,0 +1,32 @@
+{
+    "parameters": {
+        "geo": "IT",
+        "timeframe": "now 7-d",
+        "keywords": [
+            "cambiamento climatico",
+            "sostenibilità",
+            "energie rinnovabili",
+            "riscaldamento globale",
+            "effetto serra",
+            "emissioni di CO2",
+            "economia circolare",
+            "mobilità sostenibile",
+            "plastic free",
+            "zero waste",
+            "moda sostenibile",
+            "alimentazione vegana"
+        ]
+    },
+    "data": {
+        "sostenibilità": 4665,
+        "cambiamento climatico": 1890,
+        "economia circolare": 603,
+        "energie rinnovabili": 583,
+        "riscaldamento globale": 558,
+        "effetto serra": 428,
+        "mobilità sostenibile": 75,
+        "plastic free": 62,
+        "emissioni di CO2": 53,
+        "zero waste": 14
+    }
+}

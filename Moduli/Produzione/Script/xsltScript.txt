@@ -1,0 +1,6 @@
+- xsltproc documento.xsl documento.xml > output.formatoDesiderato
+
+- Transformations/xml_to_instagram.xsl ../StesuraERevisione/Content/document.xml > Output/instagramPost.html
+- xsltproc Transformations/xml_to_markdown.xsl  ../StesuraERevisione/Content/document.xml > Output/gitBook.md
+- Transformations/xml_to_socialMediaDescription.xsl  ../StesuraERevisione/Content/document.xml > Output/socialMediaDescription.txt
+- xsltproc Transformations/xml_to_txt.xsl  ../StesuraERevisione/Content/document.xml > Output/twitterPost.txt   

@@ -1,0 +1,20 @@
+[
+  {
+    "PracticalSuggestion": "Ridurre l'uso di plastica monouso tramite alternative sostenibili.",
+    "Reason": "La plastica monouso rappresenta circa due terzi della plastica prodotta annualmente, con un ciclo di vita inferiore a un mese, causando un accumulo significativo nell'ambiente. Ridurne l'uso diminuisce l'inquinamento terrestre e marino.",
+    "Reference": "\u201cRoughly two-thirds of global plastics have a short life cycle which is less than a month.\u201d (Pagina 7, Sezione 3.3.2.5)",
+    "ImplementationSteps": "1. Sostituire le buste di plastica con borse riutilizzabili in tessuto o materiali biodegradabili. 2. Utilizzare contenitori riutilizzabili per cibi e bevande. 3. Evitare l'acquisto di prodotti con imballaggi non necessari."
+  },
+  {
+    "PracticalSuggestion": "Promuovere la raccolta differenziata e il riciclo meccanico della plastica.",
+    "Reason": "Il riciclo meccanico permette di trasformare i rifiuti plastici in nuovi materiali riducendo il consumo di risorse e l'impatto ambientale. Tuttavia, la separazione corretta dei materiali è fondamentale per la qualità del riciclo.",
+    "Reference": "\u201cSorting and separating play an important role in biodegradable plastic recycling to prevent contamination from non-biodegradable plastics.\u201d (Pagina 12, Sezione 4.1.2)",
+    "ImplementationSteps": "1. Educare il pubblico sull'importanza della raccolta differenziata. 2. Introdurre incentivi economici per il riciclo domestico. 3. Collaborare con comuni e aziende per migliorare i sistemi di raccolta."
+  },
+  {
+    "PracticalSuggestion": "Adottare e sostenere l'uso di bioplastiche biodegradabili.",
+    "Reason": "Le bioplastiche riducono l'impatto ambientale poiché derivano da risorse rinnovabili e possono degradarsi naturalmente, contribuendo a diminuire la quantità di plastica non degradabile.",
+    "Reference": "\u201cBioplastics consist either entirely or partially from natural resources such as vegetable oils and starches.\u201d (Pagina 4, Sezione 2.1)",
+    "ImplementationSteps": "1. Scegliere prodotti confezionati con bioplastiche. 2. Sensibilizzare le aziende sull'utilizzo di materiali biodegradabili. 3. Sostenere politiche governative per incentivare la ricerca sulle bioplastiche."
+  }
+]

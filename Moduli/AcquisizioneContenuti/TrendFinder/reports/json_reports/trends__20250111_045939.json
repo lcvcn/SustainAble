@@ -1,0 +1,34 @@
+{
+    "parameters": {
+        "geo": "",
+        "timeframe": "now 7-d",
+        "keywords": [
+            "climate change",
+            "sustainability",
+            "renewable energy",
+            "global warming",
+            "greenhouse effect",
+            "CO2 emissions",
+            "circular economy",
+            "sustainable mobility",
+            "plastic free",
+            "zero waste",
+            "sustainable fashion",
+            "vegan diet"
+        ]
+    },
+    "data": {
+        "plastic free": 11395,
+        "climate change": 9202,
+        "sustainability": 8532,
+        "CO2 emissions": 7902,
+        "circular economy": 7785,
+        "zero waste": 6869,
+        "vegan diet": 6711,
+        "sustainable fashion": 4105,
+        "renewable energy": 3955,
+        "global warming": 3125,
+        "greenhouse effect": 608,
+        "sustainable mobility": 164
+    }
+}

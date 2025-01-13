@@ -1,0 +1,1 @@
+pandoc ../markdown_reports/trends__20250111_045939.md -o output.pdf
